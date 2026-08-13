@@ -1,3 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
 # LangGraph & LangChain Frameworks
 langgraph
 langchain
@@ -5,7 +8,6 @@ langchain-core
 langchain-google-genai
 
 # LlamaIndex & Vector DB Integrations
-llama-index
 llama-index-core
 llama-index-vector-stores-pinecone
 llama-index-embeddings-huggingface
