@@ -52,7 +52,7 @@ graph TD
 ## Tech Stack & Tools
 
 * **Agent Orchestration:** [LangGraph](https://github.com/langchain-ai/langgraph) (Stateful multi-agent state machines)
-* **LLM Provider:** [Google Gemini API](https://ai.google.dev/) (`gemini-2.0-flash` via LangChain)
+* **LLM Provider:** [Google Gemini API](https://ai.google.dev/) (`gemini-3.6-flash` via LangChain)
 * **Data Parsing & RAG Framework:** [LlamaIndex](https://www.llamaindex.ai/) (`SentenceSplitter`)
 * **Vector Store:** [Pinecone](https://www.pinecone.io/) (Serverless Vector Database)
 * **Embedding Model:** [HuggingFace Transformers](https://huggingface.co/) (`BAAI/bge-small-en-v1.5` - 384 dimensions)
