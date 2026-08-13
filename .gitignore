@@ -1,0 +1,7 @@
+.env
+src\__pycache__
+reports
+src\data_loader\__pycache__
+src\agents\__pycache__
+src\ml_models\__pycache__
+gen_pdf.py

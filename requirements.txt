@@ -1,0 +1,25 @@
+# LangGraph & LangChain Frameworks
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+
+# LlamaIndex & Vector DB Integrations
+llama-index
+llama-index-core
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
+llama-index-embeddings-google-genai
+llama-index-llms-gemini
+pinecone-client
+
+# Machine Learning & Data Processing
+scikit-learn
+pandas
+numpy
+
+# PDF Generation & Utilities
+reportlab
+python-dotenv
+pydantic
+streamlit
