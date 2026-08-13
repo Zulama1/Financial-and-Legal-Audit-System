@@ -17,7 +17,7 @@ Auditing complex corporate contracts manually is time-consuming and error-prone.
 
 ## Architecture & Pipeline Workflow
 
-```mermaid
+```bash
 graph TD
     subgraph Phase 1: Ingestion & Indexing
         A1[CUAD Contract PDFs / TXT] --> A2[LlamaIndex SentenceSplitter]
@@ -90,7 +90,7 @@ FinancialAndLegalAuditSystem/
 ├── .env.example
 ├── requirements.txt
 └── README.md
-
+```
 ## 🚀 Quick Start Guide
 
 ### 1. Prerequisites
