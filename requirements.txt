@@ -1,28 +1,26 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 
-# LangGraph & LangChain Frameworks
+# Core Streamlit & Web App
+streamlit
+pypdf
+reportlab
+python-dotenv
+pydantic
+
+# LangGraph & LangChain (For Agents & Gemini)
 langgraph
 langchain
 langchain-core
 langchain-google-genai
 
-# LlamaIndex & Vector DB Integrations
+# LlamaIndex & Vector DB (For Pinecone & Local BGE Embeddings)
 llama-index-core
 llama-index-vector-stores-pinecone
 llama-index-embeddings-huggingface
-llama-index-embeddings-google-genai
-llama-index-llms-gemini
 pinecone-client
 
-# Machine Learning & Data Processing
+# ML & Data Science
 scikit-learn
 pandas
 numpy
-
-# PDF Generation & Utilities
-reportlab
-python-dotenv
-pydantic
-streamlit
-pypdf
