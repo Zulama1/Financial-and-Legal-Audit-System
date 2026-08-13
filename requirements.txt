@@ -1,6 +1,11 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 
+google-api-core>=2.19.0
+google-generativeai>=0.8.0
+proto-plus>=1.24.0
+googleapis-common-protos>=1.63.0
+
 # Core Streamlit & Web App
 streamlit
 pypdf
