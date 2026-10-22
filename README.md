@@ -2,7 +2,8 @@
 
 An agentic AI platform that automates financial and legal risk auditing across commercial contracts. Combining **ML anomaly detection** with a **LangGraph multi-agent loop** (Reader, Auditor, Critic), **LlamaIndex**, **Pinecone**, and **Google Gemini**, this system pre-screens large datasets for legal liabilities and generates structured executive audit reports.
 
-
+## Deployment
+https://legal-audit-agent.streamlit.app/
 
 ## Overview
 
